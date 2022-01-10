@@ -9,7 +9,7 @@ Videos of results can be downloaded from their respective folders which will giv
 
 Below are pictures of results of all 3 algorithims.
 
-## Vehicle, Human And Signals Detection
+## Vehicle, Human And Traffic Lights Detection
 
 Yolov5 algorithim with pre-trained Yolov5s weights were used for this purpose.
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/68387964/148737610-ecb2bab1-d525-4fe7-
 
 ## Lane Detection
 
-Simple functions were written using cv2 functions to detect lanes. Altough it detects lanes pretty good however \
+Simple functions were written using cv2 to detect lanes. Altough it detects lanes pretty good, \
 it works only on straight roads and on some videos only.
 
 ![lane1](/../main/lane_detection/out_image.jpeg)
